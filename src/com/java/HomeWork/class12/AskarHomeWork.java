@@ -19,6 +19,7 @@ public class AskarHomeWork {
 
         //we need to compare word to word backwards"word"=="drow"
 
+        
         //we need to invert our original word
         String str1 = ""; //inverted string
 
