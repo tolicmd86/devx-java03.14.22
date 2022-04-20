@@ -19,6 +19,7 @@ public class ModuloOperator {
         System.out.println(51%10);//1
         System.out.println(14%10);//4
         System.out.println(17%10);//7
+        System.out.println(7%1);
 
         //  /10=7
         //  %10=8

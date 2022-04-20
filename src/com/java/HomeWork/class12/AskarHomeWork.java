@@ -35,6 +35,7 @@ public class AskarHomeWork {
             System.out.println(str1+ " is not a palindrome.");
 
 
+
         }
 
 
