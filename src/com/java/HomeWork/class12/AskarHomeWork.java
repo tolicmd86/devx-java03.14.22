@@ -21,18 +21,18 @@ public class AskarHomeWork {
 
         
         //we need to invert our original word
-        String str1 = ""; //inverted string
+        String rev = ""; //inverted string
 
         for (int i = str.length() - 1; i >= 0; i--) {
-            str1=str1+str.charAt(i);
-            System.out.println(str1);
+            rev=rev+str.charAt(i);
+
 
         }
 
-        if (str.equals(str1)) {
-            System.out.println(str1 + " is a palindrome.");
+        if (str.equals(rev)) {
+            System.out.println(rev + " is a palindrome.");
         } else {
-            System.out.println(str1+ " is not a palindrome.");
+            System.out.println(rev+ " is not a palindrome.");
 
 
 
